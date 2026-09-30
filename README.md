@@ -11,4 +11,5 @@ Dependencies (version numbers refer to the versions I used. Newer or older may a
 * SciPy (1.9.3)
 * tqdm (4.59.0)
 * openpyxl (3.0.9)
+* statsmodels (0.12.2)
 * pandas (1.5.2)
